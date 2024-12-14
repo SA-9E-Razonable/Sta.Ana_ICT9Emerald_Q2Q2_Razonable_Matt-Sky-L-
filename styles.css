@@ -1,0 +1,16 @@
+body{
+background-image: url('Blue.png');
+background-repeat:no-repeat;
+background-size:cover;
+}
+.content {
+padding: 20px;
+background-color: #00008B;
+}
+
+#Matt{
+width:80px;
+}
+
+
+

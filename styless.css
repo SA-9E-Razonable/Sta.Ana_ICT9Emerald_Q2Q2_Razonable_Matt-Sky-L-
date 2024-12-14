@@ -1,0 +1,27 @@
+body{
+background-image: url('Blue.png');
+background-repeat:no-repeat;
+background-size:cover;
+}
+
+.header {
+background-color:#ffcf60;
+color: #fff;
+padding: 20px;
+text-align: center;
+border-radius: 5px;
+}
+
+.content {
+padding: 20px;
+background-color: #00008B;
+border-radius: 5px;
+}
+
+#Robots{
+width:1250px;
+}
+
+#Matt{
+width:80px;
+}
